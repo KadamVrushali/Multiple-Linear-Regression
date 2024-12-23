@@ -5,7 +5,6 @@ Dataset Overview 📚
 The dataset contains multiple attributes, including:
 
 Life Expectancy 💖
-
 Adult Mortality ⚰️
 
 Infant Deaths 👶
