@@ -5,11 +5,17 @@ Dataset Overview 📚
 The dataset contains multiple attributes, including:
 
 Life Expectancy 💖
+
 Adult Mortality ⚰️
+
 Infant Deaths 👶
+
 Alcohol Consumption 🍷
+
 GDP 💵
+
 Health Metrics 🏥
+
 The data covers the years from 2000 to 2015 and includes information about:
 
 Country 🌎
